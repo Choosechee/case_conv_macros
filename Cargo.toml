@@ -3,7 +3,7 @@ name = "case_conv_macros"
 description = "Macros to convert identifiers and string literals to strings in a different case style."
 license = "MIT"
 repository = "https://github.com/Choosechee/case_conv_macros"
-version = "1.0.0"
+version = "1.0.1"
 readme = "README.md"
 edition = "2021"
 
