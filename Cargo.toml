@@ -1,8 +1,8 @@
 [package]
-name = "pascal_ident_to_string"
-description = "A macro to convert an identifier to a string literal in pascal case"
+name = "case_conv_macros"
+description = "Macros to convert identifiers and string literals to strings in a different case-style."
 license = "MIT"
-repository = "https://github.com/maheshbansod/pascal_string"
+repository = "https://github.com/Choosechee/case_conv_macros"
 version = "0.1.0"
 edition = "2021"
 
