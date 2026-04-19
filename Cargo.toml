@@ -1,10 +1,14 @@
 [package]
 name = "case_conv_macros"
-description = "Macros to convert identifiers and string literals to strings in a different case-style."
+description = "Macros to convert identifiers and string literals to strings in a different case style."
 license = "MIT"
 repository = "https://github.com/Choosechee/case_conv_macros"
 version = "1.0.0"
+readme = "README.md"
 edition = "2021"
+
+keywords = ["macros", "case", "case_style", "identifiers", "string_literals"]
+categories = ["text-processing", "value-formatting"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
